@@ -7,7 +7,7 @@ This will include the following outputs:
 
 [README.md](README.md)
 
-Cookbook.md
+[cookbook.md](cookbook.md)
 
 [tidydata.txt](tidydata.txt)
 
